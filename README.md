@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2000&color=90F783&vCenter=true&width=1000&height=100&lines=I+don+not+konw+where+to+go%2Cbut+I+have+been+on+the+road.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2000&color=90F783&vCenter=true&width=1000&height=60&lines=I+don+not+konw+where+to+go%2Cbut+I+have+been+on+the+road.)](https://git.io/typing-svg)
