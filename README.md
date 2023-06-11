@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Everyday is Wonderful day!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Everyday%20is%20wonderful%20day!)](https://git.io/typing-svg)
