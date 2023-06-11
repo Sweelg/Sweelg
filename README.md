@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I%20do%20not%20know%20where%20to%20go,%20but%20%20I%20have%20been%20on%20the%20road.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=90F783&width=435&lines=I+don+no+know+where+to+go%2C+but+I+have+been+on+the+road.)](https://git.io/typing-svg)
