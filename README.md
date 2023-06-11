@@ -9,4 +9,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=Sweelg&show_icons=true&theme=dark&count_private=true)
 
 ## Visitor
-<img src="https://visitor-badge.glitch.me/badge?page_id=[Github主页地址](https://github.com/Sweelg)&right_color=red" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Sweelg&right_color=red" />
