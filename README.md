@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 It's my best luck to meet you.
 
 <!--
 **Sweelg/Sweelg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Everyday%20is%20wonderful%20day!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I do not know where to go, but i I have been on the road.)](https://git.io/typing-svg)
