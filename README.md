@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2000&color=90F783&vCenter=true&width=1000&height=60&lines=I+don+not+konw+where+to+go%2Cbut+I+have+been+on+the+road.)](https://git.io/typing-svg)
+
+## Sweelg's GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Sweelg&show_icons=true&theme=dark&count_private=true)
