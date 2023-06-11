@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=90F783&vCenter=true&width=435&lines=I+don+no+know+where+to+go%2C+;but+I+have+been+on+the+road.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=90F783&vCenter=true&width=435&lines=I+don+no+know+where+to+go%2C+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=90F783&vCenter=true&width=435&lines=but+I+have+been+on+the+road.)](https://git.io/typing-svg)
