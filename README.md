@@ -10,7 +10,7 @@
 
 
 #### Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sweelg&theme=dark&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sweelg)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Contact
