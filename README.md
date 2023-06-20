@@ -11,5 +11,7 @@
 #### Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sweelg&theme=dark&layout=compact)
 
+<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Sweelg&right_color=red" />
+
 #### Contact
 sweelg99@gmail.com
